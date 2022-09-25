@@ -1,17 +1,1 @@
-if game.PlaceId == 13822889 then
-loadstring(game:HttpGetAsync('https://raw.githubusercontent.com/MilkMeNow123/NuggetHub./main/root.txt'))()
-elseif game.PlaceId == 7551121821 then
-loadstring(game:HttpGet('https://raw.githubusercontent.com/thombomb2009/ok/main/Decaying%20Winter.lua'))()
-elseif game.PlaceId == 537413528 then
-loadstring(game:HttpGet('https://raw.githubusercontent.com/thombomb2009/ok/main/Build%20A%20Boat%20For%20Treasure.lua'))()
-elseif game.PlaceId == 1069951594 then
-loadstring(game:HttpGet('https://raw.githubusercontent.com/thombomb2009/butter-hub/main/Fall%20of%20Hell.txt'))()
-elseif game.PlaceId == 189707 then
-loadstring(game:HttpGet('https://raw.githubusercontent.com/thombomb2009/butter-hub/main/Natueal%20Disaters.txt'))()
-elseif game.PlaceId == 205224386 then
-loadstring(game:HttpGet('https://raw.githubusercontent.com/thombomb2009/butter-hub/main/Hide_and_Seek_Extreme.lua'))()
-elseif game.PlaceId == 4965975642 then
-loadstring(game:HttpGet('https://raw.githubusercontent.com/thombomb2009/butter-hub/main/sof.txt'))()
-elseif game.PlaceId == 2888719930 then
-loadstring(game:HttpGet('https://raw.githubusercontent.com/thombomb2009/butter-hub/main/Boxing_Simulator_2%20(1).txt'))()
-end
+
